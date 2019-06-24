@@ -16,6 +16,7 @@ API_INTERFACE = '${API_INTERFACE}'  # glzjinmod, modwebapi
 
 WEBAPI_URL = '${WEBAPI_URL}'
 WEBAPI_TOKEN = '${WEBAPI_TOKEN}'
+MYSQL_OFFSET = ${MYSQL_OFFSET}
 
 # mudb
 MUDB_FILE = 'mudb.json'
